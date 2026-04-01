@@ -1,0 +1,12 @@
+{
+  "name": "harbour-light-financial-calgary",
+  "version": "1.0.0",
+  "description": "Advice-only financial planning in Calgary",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
